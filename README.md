@@ -82,7 +82,7 @@ Running on Google Colab? Execute the "Upgrade Plotly" cell at the top first.
 ```
 .
 ├── Space_Missions_Analysis_(start).ipynb   # Full analysis
-├── mission_launches.csv                    # Dataset (add this yourself)
+├── mission_launches.csv                    # Dataset
 ├── README.md
 ├── .gitignore
 └── requirements.txt
