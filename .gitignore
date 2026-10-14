@@ -1,2 +1,24 @@
-.idea
-mission_launches.csv
+# Python bytecode and build artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyCharm and local IDE settings
+.idea/
+*.iml
+
+# Test, coverage, and local environment files
+.pytest_cache/
+.coverage
+htmlcov/
+.env
