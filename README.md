@@ -66,7 +66,7 @@ Figures below come from the rows that have a reported price (964 of the original
 git clone https://github.com/VeerX-27G/Analyse-and-Visualise-the-Space-Race.git
 cd Analyse-and-Visualise-the-Space-Race
 
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 Add `mission_launches.csv` to the project folder, then launch the notebook:
